@@ -9,10 +9,12 @@ Além disso, estou em constante evolução, participando de projetos que envolve
 
 💼 Experiência e Habilidades
 🔧 Tecnologias
-Front-end: HTML, CSS, JavaScript
+
+Front-end: HTML, CSS, JavaScript, Bootstrap
 Back-end: Java (JSP, Java EE), C# (.NET), MySQL
 Ferramentas: NetBeans, Visual Studio, GitHub
 Banco de Dados: MySQL, SQL Server
+
 📂 Projetos Principais
 🔹 InfoX
 Sistema completo de controle de ordens de serviços (OS), com funcionalidades como cadastro de clientes, usuários e geração de relatórios.
@@ -21,9 +23,7 @@ Sistema completo de controle de ordens de serviços (OS), com funcionalidades co
 Aplicação em Java para gerenciamento de clínicas, com cadastro de pacientes, médicos e especialidades.
 
 🔹 PontoGastro
-Projeto de site profissional desenvolvido com HTML.
-
-📊 Estatísticas do GitHub
+Projeto de site profissional desenvolvido com HTML, CSS e Bootstrap para uma interface moderna e responsiva.
 
 🤝 Conecte-se Comigo
 LinkedIn: flaviola-filho
